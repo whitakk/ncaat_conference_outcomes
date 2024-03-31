@@ -1,0 +1,10 @@
+[packages]
+ipykernel = ">=6.20.2"
+jupyter = "==1.0.0"
+numpy = ">=1.18.5"
+pandas = ">=1.1.5"}
+requests = "*"
+tqdm = "*"
+
+[requires]
+python_version = "3.11"
